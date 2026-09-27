@@ -11,3 +11,21 @@
 ## Current status
 
 No source code was committed to this workspace. It remains publicly archived as an honest record of an early repository name, while the active profile repository now contains the maintained GitHub overview.
+
+## Repository record
+
+~~~mermaid
+flowchart LR
+    A[Cod with Nitish repository] --> B[No source files committed]
+    B --> C[Historical account record]
+    C --> D[Maintained Cod4Nitish profile repository]
+~~~
+
+| Check | Result |
+| --- | --- |
+| Committed application source | None |
+| Build or deployment setup | None |
+| Current maintained destination | Cod4Nitish profile repository |
+| Public status | Archived historical record |
+
+There is intentionally no invented project narrative here: this repository contains only its historical README, while the linked profile repository is the current public entry point.
